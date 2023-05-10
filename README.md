@@ -1,5 +1,5 @@
 # Hacks
-A ton of hacks for school
+A ton of hacks for school it would be appreactiated if you starred
 
 How to use
 
